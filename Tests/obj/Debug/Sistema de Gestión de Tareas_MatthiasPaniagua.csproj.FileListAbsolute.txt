@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\C#\Sistema de Gestión de Tareas_MatthiasPaniagua\bin\Debug\Sistema de Gestión de Tareas_MatthiasPaniagua.exe.config
+C:\Users\HP\Documents\C#\Sistema de Gestión de Tareas_MatthiasPaniagua\bin\Debug\Sistema de Gestión de Tareas_MatthiasPaniagua.exe
+C:\Users\HP\Documents\C#\Sistema de Gestión de Tareas_MatthiasPaniagua\bin\Debug\Sistema de Gestión de Tareas_MatthiasPaniagua.pdb
+C:\Users\HP\Documents\C#\Sistema de Gestión de Tareas_MatthiasPaniagua\obj\Debug\Sistema de Gestión de Tareas_MatthiasPaniagua.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\C#\Sistema de Gestión de Tareas_MatthiasPaniagua\obj\Debug\Sistema de Gestión de Tareas_MatthiasPaniagua.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#\Sistema de Gestión de Tareas_MatthiasPaniagua\obj\Debug\Sistema de Gestión de Tareas_MatthiasPaniagua.exe
+C:\Users\HP\Documents\C#\Sistema de Gestión de Tareas_MatthiasPaniagua\obj\Debug\Sistema de Gestión de Tareas_MatthiasPaniagua.pdb

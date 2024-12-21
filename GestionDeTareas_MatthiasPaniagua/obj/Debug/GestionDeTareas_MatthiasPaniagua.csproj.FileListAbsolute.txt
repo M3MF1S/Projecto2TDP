@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\GestionDeTareas_MatthiasPaniagua\bin\Debug\GestionDeTareas_MatthiasPaniagua.exe.config
+C:\Users\HP\source\repos\GestionDeTareas_MatthiasPaniagua\bin\Debug\GestionDeTareas_MatthiasPaniagua.exe
+C:\Users\HP\source\repos\GestionDeTareas_MatthiasPaniagua\bin\Debug\GestionDeTareas_MatthiasPaniagua.pdb
+C:\Users\HP\source\repos\GestionDeTareas_MatthiasPaniagua\obj\Debug\GestionDeTareas_MatthiasPaniagua.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GestionDeTareas_MatthiasPaniagua\obj\Debug\GestionDeTareas_MatthiasPaniagua.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GestionDeTareas_MatthiasPaniagua\obj\Debug\GestionDeTareas_MatthiasPaniagua.exe
+C:\Users\HP\source\repos\GestionDeTareas_MatthiasPaniagua\obj\Debug\GestionDeTareas_MatthiasPaniagua.pdb
